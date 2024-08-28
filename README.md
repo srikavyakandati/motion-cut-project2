@@ -1,4 +1,5 @@
 Name:srikavyakandati company:MOTION CUT Domain: Web Development Internship Duration: 1 Month Start Date: 1st August, 2024 End Date: 1st September 2024
+
 Objective:
 The objective of this project is to create a dynamic image slider using HTML, CSS, and JavaScript. This
 slider will showcase different images with smooth transitions, providing an engaging and interactive user
@@ -35,4 +36,10 @@ Add functionality for auto-sliding images at a set interval.
 Handle user interactions with navigation controls (e.g., previous/next buttons).
 
 ![image](https://github.com/user-attachments/assets/1991ee50-87bc-4eee-9e97-8830cba5cb0c)
+![image](https://github.com/user-attachments/assets/29cfdf86-18ab-421e-8463-2a9bb51da6c5)
+![image](https://github.com/user-attachments/assets/01730768-ca18-41fd-8ac8-148055715ba3)
+![image](https://github.com/user-attachments/assets/15daf3f8-b116-4a83-8306-46076c2a9021)
+
+
+
 
